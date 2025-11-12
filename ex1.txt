@@ -14,7 +14,7 @@ git add index.html
 git commit -m "Initial commit with index.html"
 
 # Step 5 – Link to GitHub
-git remote add origin https://github.com/yourusername/GitLabExam.git
+git remote add origin https://github.com/Aditya210904/G.git
 git branch -M main
 
 # Step 6 – Push to GitHub
