@@ -4,8 +4,8 @@ EX1 GIT
 git init
 
 # Step 2 – Configure (first time only)
-git config --global user.name "Your Name"
-git config --global user.email "youremail@example.com"
+git config --global user.name "aditya"
+git config --global user.email "aditya2004@gmail.com"
 
 # Step 3 – Add file
 git add index.html
@@ -14,7 +14,7 @@ git add index.html
 git commit -m "Initial commit with index.html"
 
 # Step 5 – Link to GitHub
-git remote add origin https://github.com/Aditya210904/G.git
+git remote add origin https://github.com/Aditya210904/exp11.git
 git branch -M main
 
 # Step 6 – Push to GitHub
